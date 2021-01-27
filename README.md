@@ -16,7 +16,7 @@ Tools setup:
 3. How to run the current test script:
     1) Choose 'RoomTest.java'
     2) Click on menu bar 'Run'.
-    3) Click in drop down menu 'Run 'RoomTest''.
+    3) Click in drop down menu 'Run 'MainTest''.
 4. To run tests in Chrome or newer you need to have a chromedriver.
    How to install 'chromedriver':
     1) Go to https://chromedriver.storage.googleapis.com/index.html?path=2.44/;
